@@ -43,7 +43,7 @@ port_proxy - порт прокси
 
 
 
-## Так же вы регистратор вы можете аккаунтов Twitter обратившись по контактам ниже:
+## Так же вы можете купить регистратор  аккаунтов Twitter обратившись по контактам ниже:
 
 ## Telegram: @AlexKravchenko88 или https://t.me/AlexKravchenko88
 
@@ -94,6 +94,6 @@ If you have any errors when running the template, write to Telegram: @AlexKravch
 
 
 
-## You are also a registrar of Twitter accounts by contacting the contacts below:
+## You can also buy a Twitter account recorder by contacting the contacts below:
 
 ## Telegram: @AlexKravchenko88 or https://t.me/AlexKravchenko88
