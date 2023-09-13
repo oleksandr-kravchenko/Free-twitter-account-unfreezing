@@ -25,19 +25,20 @@
 ## Входные данные
 файл аккаунтов - файл с расширением txt
 формат строк в файле - login_twitter:pass_twitter:auth_token;token_twitter:ct0;ct0_token
-login_twitter - логин от твитера
-pass_twitter - пароль от твитера
-token_twitter - auth token от твитера
-ct0_token - ct0 от твитера
+* login_twitter - логин от твитера
+* pass_twitter - пароль от твитера
+* token_twitter - auth token от твитера
+* ct0_token - ct0 от твитера
+  
 Обязательные параметры token_twitter и ct0_token - то есть можно указывать и такой формат
 ::auth_token;token_twitter:ct0;ct0_token
 
 файл прокси - файл с расширением txt
 формат строк в файле - login_proxy:pass_proxy@ip_proxy:port_proxy
-login_proxy - логин прокси
-pass_proxy - пароль прокси
-ip_proxy - ip прокси
-port_proxy - порт прокси
+* login_proxy - логин прокси
+* pass_proxy - пароль прокси
+* ip_proxy - ip прокси
+* port_proxy - порт прокси
 
 Если у Вас возникли ошибки при запуске шаблона - напишите в Telegram: @AlexKravchenko88 или https://t.me/AlexKravchenko88 я постараюсь вам помочь
 
@@ -76,19 +77,20 @@ You can run at least 100 threads (ZennoBOX has a limit of 20 for all projects) -
 ## Input data
 accounts file - file with txt extension
 the format of the lines in the file is login_twitter:pass_twitter:auth_token;token_twitter:ct0;ct0_token
-login_twitter - Twitter login
-pass_twitter - twitter password
-token_twitter - auth token from twitter
-ct0_token - ct0 from tweeter
+* login_twitter - Twitter login
+* pass_twitter - twitter password
+* token_twitter - auth token from twitter
+* ct0_token - ct0 from tweeter
+  
 Required parameters token_twitter and ct0_token - that is, you can specify this format
 ::auth_token;token_twitter:ct0;ct0_token
 
 proxy file - file with txt extension
 the format of the lines in the file is login_proxy:pass_proxy@ip_proxy:port_proxy
-login_proxy - proxy login
-pass_proxy - proxy password
-ip_proxy - ip proxy
-port_proxy - proxy port
+* login_proxy - proxy login
+* pass_proxy - proxy password
+* ip_proxy - ip proxy
+* port_proxy - proxy port
 
 If you have any errors when running the template, write to Telegram: @AlexKravchenko88 or https://t.me/AlexKravchenko88 I will try to help you
 
