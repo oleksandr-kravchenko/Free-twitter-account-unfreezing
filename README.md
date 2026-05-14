@@ -7,7 +7,7 @@
 В случае какой-либо ошибки, вся информация возвращается по файлам и папкам.
 
 ## Особенности разморозки аккаунтов Twitter:
-* работа через <a href="https://dashboard.mangoproxy.com/signup?ref=pw1KYf">Лучшие Прокси</a>
+* работа через <a href="https://9proxy.com/sign-up?inviteCode=9P_xdMfb8gV">Лучшие Прокси</a>
 * много поток
 * имитация реального человека
 * подключен сервис гадания капчи rucapcha
@@ -59,7 +59,7 @@ The template provides a choice of settings for all important elements.
 In case of any error, all information is returned by files and folders.
 
 ## Features of unfreezing Twitter accounts:
-* work through a <a href="https://dashboard.mangoproxy.com/signup?ref=pw1KYf">Best Proxy</a>
+* work through a <a href="https://9proxy.com/sign-up?inviteCode=9P_xdMfb8gV">Best Proxy</a>
 * a lot of thread
 *imitation of a real person
 * connected captcha guessing service rucapcha
